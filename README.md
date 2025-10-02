@@ -16,7 +16,7 @@ I thrive on building robust data pipelines, developing predictive models, and vi
 |---|---|---|---|---|
 | Python | Scikit-learn | AWS | PostgreSQL | Jira |
 | R | TensorFlow | Azure | SQL Server | Git / GitLab |
-| SQL | PyTorch | **Snowflake** | NoSQL | Docker |
+| SQL | PyTorch | Snowflake | NoSQL | Docker |
 | Bash | Pandas / NumPy | Apache Spark | GCP | Tableau |
 | Julia / Go | Predictive Analysis | Hadoop | Azure | Power BI |
 
