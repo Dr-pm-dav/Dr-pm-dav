@@ -1,0 +1,29 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Transform: AWS::Serverless-2016-10-31
+Description: >-
+  Serverless application that exposes a breast cancer risk classifier via API Gateway.
+
+Globals:
+  Function:
+    Runtime: python3.11
+    Timeout: 10
+    MemorySize: 128
+    Handler: lambda_app.lambda_function.lambda_handler
+
+Resources:
+  ClassifierFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      CodeUri: ../
+      Description: Logistic regression classifier deployed on AWS Lambda
+      Events:
+        ApiEvent:
+          Type: Api
+          Properties:
+            Path: /predict
+            Method: post
+
+Outputs:
+  ApiEndpoint:
+    Description: Invoke URL for the classifier endpoint
+    Value: !Sub 'https://${ServerlessRestApi}.execute-api.${AWS::Region}.amazonaws.com/Prod/predict'

@@ -22,6 +22,12 @@ I thrive on building robust data pipelines, developing predictive models, and vi
 
 ### 🔭 Key Projects
 
+#### ☁️ AWS Lambda Breast Cancer Classifier
+A fully reproducible serverless machine learning project that showcases model training, packaging, and deployment on AWS Lambda behind an API Gateway endpoint.
+- **Tech:** Python, AWS Lambda, AWS SAM, API Gateway
+- **Skills:** MLOps, Model Deployment, Serverless Architecture
+- **Repository Guide:** [`lambda_app/README.md`](lambda_app/README.md)
+
 #### 🎓 Doctoral Thesis: Comparative Automated Detection of Environmental Change
 This ongoing research involves analyzing large-scale geospatial and environmental datasets to develop automated models for detecting significant changes in the Tennessee and Flint River Basins.
 - **Tech:** Python, R, Bash, ESRI ArcGIS, Google Earth, Cesium, AutoDesk
@@ -29,7 +35,7 @@ This ongoing research involves analyzing large-scale geospatial and environmenta
 
 #### 🎓 Master’s Capstone: The Hidden Burden of Gallbladder Disease
 A comprehensive data analytics project investigating the prevalence, costs, and diagnostic advancements related to gallbladder disease in the USA.
-- **Tech:** Python, R, SPSS 29, R Studio, Tableau 
+- **Tech:** Python, R, SPSS 29, R Studio, Tableau
 - **Skills:** Data Analytics, Data Visualization, Statistical Analysis
 
 ### 📫 Let’s Connect
