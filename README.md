@@ -20,7 +20,7 @@ I thrive on building robust data pipelines, developing predictive models, and vi
 | Bash | Pandas / NumPy | Hadoop |  | Tableau |
 |  | Predictive Analysis |  |  | Power BI |
 
-#### Familiar (coursework & exploration): Rust, Snowflake, GCP, Hadoop, Palantir Foundry
+#### Familiar (coursework & exploration): Rust, Snowflake, GCP, Palantir Foundry
 
 
 ### 🔭 Key Projects
