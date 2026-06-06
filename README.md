@@ -6,9 +6,9 @@
 ---
 
 ### 👋 About Me
-I am a **Data Scientist** and **Doctor in Computer Science** with a passion for transforming complex data into impactful solutions. My career has spanned government, healthcare, and academic research, where I have analyzed nuclear physics data for U.S. Customs and Border Protection, supported federal technology acquisition at the Department of Veterans Affairs, and modeled complex biological systems. My current research focuses on leveraging big data to automate the detection of environmental change.
-
+I am a **Data Scientist** and **Doctor of Computer Science** who transforms complex data into impactful solutions. My career spans government, healthcare, and academic research, analyzing nuclear physics data for U.S. Customs and Border Protection, supporting federal technology acquisition at the Department of Veterans Affairs, and modeling complex biological systems. My doctoral research applied big data and computer vision to the automation of environmental change detection.
 I thrive on building robust data pipelines, developing predictive models, and visualizing data to tell a compelling story. I am actively seeking remote **Senior Data Scientist** or **Machine Learning Engineer** roles.
+
 
 ### 🛠️ My Tech Stack
 
@@ -16,21 +16,25 @@ I thrive on building robust data pipelines, developing predictive models, and vi
 |---|---|---|---|---|
 | Python | Scikit-learn | AWS | PostgreSQL | Jira |
 | R | TensorFlow | Azure | SQL Server | Git / GitLab |
-| SQL | PyTorch | Snowflake | NoSQL | Docker |
-| Bash | Pandas / NumPy | Apache Spark | GCP | Tableau |
-| Rust | Predictive Analysis | Hadoop | Azure | Power BI |
+| SQL | PyTorch |  | NoSQL | Hadoop | Docker |
+| Bash | Pandas / NumPy | Apache Spark |  | Tableau |
+|  | Predictive Analysis |  |  | Power BI |
+
+#### Familiar (coursework & exploration): Rust, Snowflake, GCP, Palantir Foundry
+
 
 ### 🔭 Key Projects
 
 #### 🎓 Doctoral Thesis: Comparative Automated Detection of Environmental Change
-This ongoing research involves analyzing large-scale geospatial and environmental datasets to develop automated models for detecting significant changes in the Tennessee and Flint River Basins.
-- **Tech:** Python, R, Bash, ESRI ArcGIS, Google Earth, APIs, Full-stack Development 
-- **Skills:** Big Data, Machine Learning, Geospatial Analysis
+An open-source, dual-basin computer-vision platform that detects multi-year land-cover, surface-water, and turbidity change across Huntsville's Tennessee and Flint River basins, using only publicly available data (2018–2025) and testing how well models transfer between hydrologically distinct watersheds.
+- **Tech:** Python, Google Earth Engine, PyTorch (U-Net), LightGBM, Harmonized Landsat–Sentinel-2 imagery
+- **Skills:** Geospatial ML, remote sensing, semantic segmentation, spatial cross-validation, uncertainty quantification
 
 #### 🎓 Master’s Capstone: The Hidden Burden of Gallbladder Disease
 A comprehensive data analytics project investigating the prevalence, costs, and diagnostic advancements related to gallbladder disease in the USA.
 - **Tech:** Python, R, SPSS 29, R Studio, Tableau 
 - **Skills:** Data Analytics, Data Visualization, Statistical Analysis
+
 
 ### 📫 Let’s Connect
 I’m always interested in discussing new projects, innovative ideas, or opportunities. Feel free to connect with me!
